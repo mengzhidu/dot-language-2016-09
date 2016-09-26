@@ -1,0 +1,6 @@
+digraph edge4 {
+    rankdir = LR;
+    A->B->C->D;
+}
+
+

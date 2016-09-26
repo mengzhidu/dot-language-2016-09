@@ -1,0 +1,7 @@
+digraph edge1 {
+    a->b;
+    a->c;
+    b->b;
+    b->b;
+}
+

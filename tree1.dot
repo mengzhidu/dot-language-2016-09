@@ -1,0 +1,8 @@
+digraph tree{
+    a;
+    b;
+    c;
+    a->b;
+    a->c;
+}
+

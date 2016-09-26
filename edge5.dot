@@ -1,0 +1,5 @@
+digraph edge4 {
+    A->B->C->D;
+}
+
+

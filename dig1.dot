@@ -1,0 +1,5 @@
+digraph dig1 {
+    A->B->D;
+    A->C->D;
+}
+

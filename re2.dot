@@ -1,0 +1,12 @@
+digraph re1 {
+    node [shape="record"];
+    student  [label="{<student>student|stu_id|stu_name|stu_age|<gid>stu_group_id}"];
+    group  [label="{<group>group|<id>grp_id|grp_name|<sid>grp_school_id}"];
+    school [label="{<school>school|<id>sch_id|sch_name}"];
+    student:gid->group:id;
+    group:sid->school:id;
+}
+
+
+
+

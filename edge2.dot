@@ -1,0 +1,6 @@
+digraph edge2 {
+    a->b [style="bold"];
+    a->c [color="red"];
+    b->d [label="hi"];
+}
+

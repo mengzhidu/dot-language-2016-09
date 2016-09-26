@@ -1,0 +1,9 @@
+digraph  edge3 {
+    a->b [dir="both"];
+    b->c [dir="none"];
+    c->d [dir="back"];
+    d->a [dir="forward"];
+}
+
+
+

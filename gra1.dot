@@ -1,0 +1,4 @@
+graph gra1 {
+    A--B--D;
+    A--C--D;
+}

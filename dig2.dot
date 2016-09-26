@@ -1,0 +1,11 @@
+digraph  dig2 {
+    node [shape = "record"];
+    edge [style = "dashed"];
+    a [color="red",style="filled",fillcolor="green"];
+    b ;
+    d ;
+    a->b;
+    b->d [color="red"];
+}
+
+

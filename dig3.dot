@@ -1,0 +1,17 @@
+digraph  dig3 {
+    node [shape = "Mrecord"];
+    a->b->d;
+    a->c->d;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+digraph dig4 {
+    node [shape="plaintext"];
+    1->2->3;
+    2->4;
+    1->5;
+}
+
+

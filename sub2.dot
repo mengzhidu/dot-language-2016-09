@@ -1,0 +1,24 @@
+digraph father {
+    a->b;
+    b->c;
+    b->d;
+    b->m;
+    b->n;
+    subgraph cluster_red {
+        label = "子图1";
+        bgcolor = "red";      
+        c;
+        d;
+    }
+    subgraph cluster_blue {
+        label = "子图2";
+        bgcolor = "blue";
+        m;
+        n;
+    }
+}
+
+
+
+
+

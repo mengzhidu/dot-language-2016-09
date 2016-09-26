@@ -1,0 +1,15 @@
+digraph father {
+    a->b;
+    b->c;
+    b->d;
+    
+   subgraph cluster_sun {
+         b;
+         d;
+    }
+}
+
+
+
+
+
